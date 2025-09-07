@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Emmanuel Mbukpa  
 
-💻 **IT Online Tutor** | 🌍 **Tech & Digital Skills Enthusiast**  
+**IT Online Tutor** | **Tech & Digital Skills Enthusiast**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=I+am+Emmanuel+Mbukpa;I+Code+💻;I+Teach+📚;I+Inspire+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=I+am+Emmanuel+Mbukpa;I+Code+;I+Teach+;I+Inspire+" alt="Typing SVG" />
 </p>
 
-- 🚀 I teach **HTML, CSS, and JavaScript** to beginners and help them grow into confident coders.  
-- 📊 Passionate about **digital skills, online education, and business growth with technology**.  
-- 🌱 Currently learning **advanced JavaScript & modern web development tools**.  
-- ⚡ Fun fact: I believe learning to code should feel like solving fun puzzles, not just writing lines of code.  
+- I teach **HTML, CSS, and JavaScript** to beginners and help them grow into confident coders.  
+- Passionate about **digital skills, online education, and business growth with technology**.  
+-  Currently learning **advanced JavaScript & modern web development tools**.  
+-  Fun fact: I believe learning to code should feel like solving fun puzzles, not just writing lines of code.  
 
 ---
 
