@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Let’s Connect  
-- 📧 Email: [your email here]  
-- 💼 LinkedIn: [your LinkedIn link]  
-- 🐦 Twitter/X: [your handle]  
+- 📧 Email: emmanuelmbukpa21@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/emmanuelmbukpa 
+  
 
-✨ *"Code. Teach. Inspire."* ✨
+ *"Code. Teach. Inspire."* 
